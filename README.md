@@ -9,26 +9,47 @@ Features
 The model uses the following voice-related measurements:
 
 MDVP(Hz) – Average vocal pitch (fundamental frequency)
+
 MDVP(Hz) – Highest vocal pitch
+
 MDVP(Hz) – Lowest vocal pitch
+
 MDVP(%) – Percentage variation in pitch
+
 MDVP(Abs) – Absolute pitch variation
+
 MDVP – Short-term pitch irregularity
+
 MDVP – Pitch perturbation quotient
+
 Jitter – Average pitch difference between cycles
+
 MDVP – Loudness variation
+
 MDVP(dB) – Loudness variation in decibels
+
 Shimmer – Amplitude variation over 3 cycles
+
 Shimmer – Amplitude variation over 5 cycles
+
 MDVP – General amplitude perturbation quotient
+
 Shimmer – Average amplitude difference
+
 NHR – Noise-to-Harmonics Ratio
+
 HNR – Harmonics-to-Noise Ratio
+
 RPDE – Speech irregularity measure
+
 DFA – Long-range speech correlation measure
+
 spread1 – Nonlinear frequency variation
+
 spread2 – Secondary nonlinear variation measure
+
 D2 – Complexity of voice dynamics
+
 PPE – Pitch period entropy
 
 How It Works
